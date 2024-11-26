@@ -1,0 +1,8 @@
+waste是垃圾数据集
+
+lajifenglei是esp32 单片机的代码  开发环境是arduino
+
+model-107347.nncase 是k210的代码和识别模型
+
+
+其他的一些是环境文件你不用管
